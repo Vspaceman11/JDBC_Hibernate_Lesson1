@@ -1,0 +1,2 @@
+INSERT INTO info(fName, lName, age, phone, address) VALUES('KK', 'SS', 12, 123456789012, 'Day');
+INSERT INTO info(fName, lName, age, phone, address) VALUES('AA', 'BB', 13, 123456219012, 'Day2');
